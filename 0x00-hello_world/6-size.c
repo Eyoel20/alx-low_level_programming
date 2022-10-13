@@ -1,9 +1,8 @@
 #include <stdio.h>
 /**
- *main - executes printf
+ * main - Entry point
  *
- *Retrun: returns 0
- *
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
