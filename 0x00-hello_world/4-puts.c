@@ -1,6 +1,8 @@
 #include <stdio.h>
 /**
- *hello puts
+ *main - executes the puts function
+ *
+ *Return: prints 0
  */
 
 int main(void)
