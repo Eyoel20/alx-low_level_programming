@@ -1,4 +1,7 @@
 #include <stdio.h>
+/**
+ *hello puts
+ */
 
 int main (void)
 {
