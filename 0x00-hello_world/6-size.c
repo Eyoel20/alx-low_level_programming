@@ -1,8 +1,9 @@
 #include <stdio.h>
 /**
- * main - executes printf
+ *main - executes printf
  *
- * Retrun: Always 0 (success)
+ *Retrun: returns 0
+ *
  */
 int main(void)
 {
